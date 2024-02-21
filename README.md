@@ -50,7 +50,7 @@ Let's connect and share our passions! \o/
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats]([https://github-readme-stats.vercel.app/api?username=LucasSlessa&show_icons=true&theme=gotham](https://github-readme-stats.vercel.app/api?username=Vini12g&show_icons=true&theme=gotham))
-https://www.instagram.com/andrvini/
+
 <div> 
   <a href="https://www.youtube.com/channel/UCrCaRSbD0zvWJWe_PvsIqVw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/andrvini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
