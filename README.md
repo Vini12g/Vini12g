@@ -10,12 +10,14 @@ Hello everyone 👋, I'm André Vinicius Guimarães, Future Computer Engineer."
 
 <details>
   <summary>👨‍💻 More about me</summary>
-💬 I'm 21 years old, currently living in Brazil. I have practical experience in programming languages such as Python, C\C++, C#, JAVA, SQL (MySQL), JavaScript, PHP, and knowledge in areas such as Machine Learning, Data Engineering, Signal Analysis and Processing. I'm a Yellow Belt Six Sigma, which helped me develop important skills such as creativity, analytical capability, community and continuous improvement processes.
-I'm a computer engineering student with a passion for Hardware, games, and literature. I enjoy following YouTube channels like Gamers Nexus, teclab, and adrenaline.
-<br>
-I believe that our personal interests play a crucial role in shaping who we are and how we approach challenges. They not only provide us with moments of joy and relaxation but also contribute to a more refined perception of things around us.
+  
+- 💬 I'm 21 years old, currently living in Brazil. I have practical experience in programming languages such as Python, C\C++, C#, JAVA, SQL (MySQL), JavaScript, PHP, and knowledge in areas such as Machine Learning, Data Engineering, Signal Analysis and Processing. I'm a Yellow Belt Six Sigma, which helped me develop important skills such as creativity, analytical capability, community and continuous improvement processes.<br>
+  
+- I'm a computer engineering student with a passion for Hardware, games, and literature. I enjoy following YouTube channels like Gamers Nexus, teclab, and adrenaline.<br>
 
-Let's connect and share our passions! \o/
+- I believe that our personal interests play a crucial role in shaping who we are and how we approach challenges. They not only provide us with moments of joy and relaxation but also contribute to a more refined perception of things around us.
+
+- Let's connect and share our passions! \o/
 
 ![TrustMeGIF]([https://github.com/LucasSlessa/LucasSLessa/assets/143228674/47121aed-111b-4d29-9d8c-ae3c7a09f166](https://github.com/Vini12g/Vini12g/blob/77a32ee0d927107b3e81c144c13126a36104c4d0/gifs/coding.gif))
 
