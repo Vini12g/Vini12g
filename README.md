@@ -12,7 +12,7 @@ Hello everyone 👋, I'm André Vinicius Guimarães, Future Computer Engineer."
   <summary>👨‍💻 More about me</summary>
 💬 I'm 21 years old, currently living in Brazil. I have practical experience in programming languages such as Python, C\C++, C#, JAVA, SQL (MySQL), JavaScript, PHP, and knowledge in areas such as Machine Learning, Data Engineering, Signal Analysis and Processing. I'm a Yellow Belt Six Sigma, which helped me develop important skills such as creativity, analytical capability, community and continuous improvement processes.
 I'm a computer engineering student with a passion for Hardware, games, and literature. I enjoy following YouTube channels like Gamers Nexus, teclab, and adrenaline.
-
+<br>
 I believe that our personal interests play a crucial role in shaping who we are and how we approach challenges. They not only provide us with moments of joy and relaxation but also contribute to a more refined perception of things around us.
 
 Let's connect and share our passions! \o/
