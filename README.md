@@ -19,7 +19,7 @@ Hello everyone 👋, I'm André Vinicius Guimarães, Future Computer Engineer."
 
 - Let's connect and share our passions! \o/
 
-![TrustMeGIF]([https://github.com/LucasSlessa/LucasSLessa/assets/143228674/47121aed-111b-4d29-9d8c-ae3c7a09f166](https://github.com/Vini12g/Vini12g/blob/77a32ee0d927107b3e81c144c13126a36104c4d0/gifs/coding.gif))
+![TrustMeGIF](gifs/f58fe8e19a7e25ddf0c459a3599261d6.gif))
 
 
 
@@ -61,13 +61,15 @@ Hello everyone 👋, I'm André Vinicius Guimarães, Future Computer Engineer."
   <a href="https://www.linkedin.com/in/andré-vinicius-guimarães-b67b4b1aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!--  -->
 </div>
+
+
+![TrustMeGIF](gifs/bb5e47498772c0628f6dc7f26a6af28c.gif)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uthjsiowjtmqvklwammgma4mja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <p align="left">
   <img align="center" src="https://github.com/Vini12g" alt="Imagem">
   
 </p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uthjsiowjtmqvklwammgma4mja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 
 
 <!--  ![image load fail. please open proxy retry](https://github.com/LucasSlessa/commit-snake/blob/snk/snk.svg) -->
