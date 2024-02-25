@@ -4,7 +4,7 @@
 
 💻 I work in the IT infrastructure area at Bundy Refrigeration.
 
-📫 How to reach me: vini12g@outlook.com // +55 12 99195 5240
+📫 How to reach me: vini12g@outlook.com  // +55 12 99195 5240
 
 Hello everyone 👋, I'm André Vinicius Guimarães, Future Computer Engineer."
 
@@ -18,6 +18,8 @@ Hello everyone 👋, I'm André Vinicius Guimarães, Future Computer Engineer."
 - I believe that our personal interests play a crucial role in shaping who we are and how we approach challenges. They not only provide us with moments of joy and relaxation but also contribute to a more refined perception of things around us.
 
 - Let's connect and share our passions! \o/
+
+![TrustMeGIF](gifs/bb5e47498772c0628f6dc7f26a6af28c.gif)"
 
 ![TrustMeGIF](gifs/f58fe8e19a7e25ddf0c459a3599261d6.gif))
 
@@ -52,6 +54,8 @@ Hello everyone 👋, I'm André Vinicius Guimarães, Future Computer Engineer."
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Vini12g&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vini12g&layout=compact&theme=radical&bg_color=10,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 <div> 
   <a href="https://www.youtube.com/channel/UCrCaRSbD0zvWJWe_PvsIqVw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -63,7 +67,7 @@ Hello everyone 👋, I'm André Vinicius Guimarães, Future Computer Engineer."
 </div>
 
 
-![TrustMeGIF](gifs/bb5e47498772c0628f6dc7f26a6af28c.gif)
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uthjsiowjtmqvklwammgma4mja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <p align="left">
