@@ -51,8 +51,8 @@ Hello everyone 👋, I'm André Vinicius Guimarães, Future Computer Engineer."
 -  -  -  -  -  -
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Vini12g&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vini12g&layout=compact&theme=radical&bg_color=10,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Vini12g&show_icons=true&theme=gotham)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini12g&layout=compact&theme=radical&bg_color=10,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
  
 
 <div> 
