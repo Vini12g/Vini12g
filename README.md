@@ -19,8 +19,6 @@ Hello everyone 👋, I'm André Vinicius Guimarães, Future Computer Engineer."
 
 - Let's connect and share our passions! \o/
 
-![TrustMeGIF](gifs/bb5e47498772c0628f6dc7f26a6af28c.gif)"
-
 ![TrustMeGIF](gifs/f58fe8e19a7e25ddf0c459a3599261d6.gif))
 
 
@@ -70,10 +68,7 @@ Hello everyone 👋, I'm André Vinicius Guimarães, Future Computer Engineer."
 ![TrustMeGIF](gifs/pixel-jeff-matrix-s.gif))
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uthjsiowjtmqvklwammgma4mja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<p align="left">
-  <img align="center" src="https://github.com/Vini12g" alt="Imagem">
-  
-</p>
+
 
 
 <!--  ![image load fail. please open proxy retry](https://github.com/LucasSlessa/commit-snake/blob/snk/snk.svg) -->
